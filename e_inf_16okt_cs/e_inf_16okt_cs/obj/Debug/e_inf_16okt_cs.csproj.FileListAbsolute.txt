@@ -1,7 +1,0 @@
-P:\szakkör_2018-2019\e_inf_16okt_cs\bin\Debug\e_inf_16okt_cs.exe.config
-P:\szakkör_2018-2019\e_inf_16okt_cs\bin\Debug\e_inf_16okt_cs.exe
-P:\szakkör_2018-2019\e_inf_16okt_cs\bin\Debug\e_inf_16okt_cs.pdb
-P:\szakkör_2018-2019\e_inf_16okt_cs\obj\Debug\e_inf_16okt_cs.csprojAssemblyReference.cache
-P:\szakkör_2018-2019\e_inf_16okt_cs\obj\Debug\e_inf_16okt_cs.csproj.CoreCompileInputs.cache
-P:\szakkör_2018-2019\e_inf_16okt_cs\obj\Debug\e_inf_16okt_cs.exe
-P:\szakkör_2018-2019\e_inf_16okt_cs\obj\Debug\e_inf_16okt_cs.pdb
